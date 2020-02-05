@@ -6,7 +6,7 @@ and copy it to the corresponding writer folder in the result file.
 Please refer to the specific use of the project.
 
 Reference: 爬虫 + CNN（卷积神经网络）实现名家画作识别与分类
-          https://www.jianshu.com/p/8db0dd959897
+      https://www.jianshu.com/p/8db0dd959897
 
 这是一个使用卷积神经网络（CNN）来进行画家作品识别与分类的工程
 通过预先获得的训练集（train_data_final文件中）来训练出模型（本工程未使用爬虫部分），再通过训练
