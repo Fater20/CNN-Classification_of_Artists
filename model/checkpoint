@@ -1,0 +1,6 @@
+model_checkpoint_path: "painting.ckpt-7990"
+all_model_checkpoint_paths: "painting.ckpt-7950"
+all_model_checkpoint_paths: "painting.ckpt-7960"
+all_model_checkpoint_paths: "painting.ckpt-7970"
+all_model_checkpoint_paths: "painting.ckpt-7980"
+all_model_checkpoint_paths: "painting.ckpt-7990"
